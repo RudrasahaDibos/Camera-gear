@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+/* shared section
+ */
+*{
+    font-family: "Lato", sans-serif;
+    font-family: "Open Sans", sans-serif;
+    font-family: "Work sans", sans-serif;  
+    
+ 
+}
+
+
+/* header */
+.header-container{
+    background-color: rgba(255,144,14,0.10);
+}
+.Influencer-header{
+    display: flex;
+    justify-content: space-between;
+    margin: 4rem;
+    ta
+   
+    
+}
+.Influencer-header-button{
+    display: flex;
+    
+}
+.Influencer-header-button li{
+    list-style: none;
+}
+.Influencer-header-button li a{ 
+    margin: 10px;
+    text-decoration: none;
+    color: #424242
+
+}

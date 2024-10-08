@@ -1,0 +1,13 @@
+.Influencer-header{
+    display: flex;
+    justify-content: space-between;
+    ba
+}
+.Influencer-header-button{
+    display: flex;
+    
+}
+.Influencer-header-button li{ 
+   margin: 10px;
+
+}
