@@ -86,7 +86,7 @@ main{
 }
 .card-container-title{
     text-align: center;
-    margin-bottom: 50px;
+    margin-bo: 5px;
 }
 .card-content{
     display: grid;
@@ -102,20 +102,15 @@ main{
 }
 .card-start{
     display:flex;
-    justify-content: space-evenly;
+    
 }
-.card-start  li {
-    list-style-image: url('logos/Star_fill_gray.png');
- }
+.card-start li{
+   padding: 10px;
+ 
+}
 .card-start  li a{
    text-decoration: none;
-}
-.main-see-button{
-    background-color: rgb(195, 255, 0);
-    border: 0px solid rgb(195, 255, 0) ;
-    margin-top: 10px;
-    margin-left: 980px;
-    padding: 10px;
+
 }
 
 /* media quaiy */
@@ -149,18 +144,7 @@ main{
          align-items: center;
         
     }
-    .card-content{
-        grid-template-columns: repeat(1,1fr);
-        
-    }
-    main{
-        margin: 0px 0px;
-    }
-    .main-see-button{
-        margin-top: 10px;
-        margin-left: 40%;
-        padding: 10px;
-    }
+    
     
     
 }
@@ -196,20 +180,7 @@ main{
 .header-footer-logo{
     top: 20px;
    align-items: center;
-   left: 20px;
   
 }
-.card-content{
-    grid-template-columns: repeat(2,1fr);
-   
-}
-main{
-    margin: 0px 0px;
-}
-.main-see-button{
-    margin-left: 540px;
-    padding: 10px;
-}
-
 
 }

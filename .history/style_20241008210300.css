@@ -199,17 +199,5 @@ main{
    left: 20px;
   
 }
-.card-content{
-    grid-template-columns: repeat(2,1fr);
-   
-}
-main{
-    margin: 0px 0px;
-}
-.main-see-button{
-    margin-left: 540px;
-    padding: 10px;
-}
-
 
 }

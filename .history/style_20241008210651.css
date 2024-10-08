@@ -207,7 +207,8 @@ main{
     margin: 0px 0px;
 }
 .main-see-button{
-    margin-left: 540px;
+    position: relative;
+    margin-left: 400px;
     padding: 10px;
 }
 

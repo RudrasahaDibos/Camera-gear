@@ -201,13 +201,14 @@ main{
 }
 .card-content{
     grid-template-columns: repeat(2,1fr);
-   
+    
 }
 main{
     margin: 0px 0px;
 }
 .main-see-button{
-    margin-left: 540px;
+    margin-top: 10px;
+    margin-left: 40%;
     padding: 10px;
 }
 

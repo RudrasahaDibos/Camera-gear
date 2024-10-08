@@ -157,8 +157,10 @@ main{
         margin: 0px 0px;
     }
     .main-see-button{
+        background-color: rgb(195, 255, 0);
+        border: 0px solid rgb(195, 255, 0) ;
         margin-top: 10px;
-        margin-left: 40%;
+        margin-left: 980px;
         padding: 10px;
     }
     
@@ -196,20 +198,7 @@ main{
 .header-footer-logo{
     top: 20px;
    align-items: center;
-   left: 20px;
   
 }
-.card-content{
-    grid-template-columns: repeat(2,1fr);
-   
-}
-main{
-    margin: 0px 0px;
-}
-.main-see-button{
-    margin-left: 540px;
-    padding: 10px;
-}
-
 
 }
